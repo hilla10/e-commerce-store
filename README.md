@@ -19,13 +19,19 @@ A modern E-commerce web application built with **React** and **Node.js**, design
     <a href="https://resume-eta-swart.vercel.app/">
     <img src="frontend/public/images/login-page.png" alt="Login Page" width="500" />
   </a>
+  
   <a href="https://resume-eta-swart.vercel.app/">
     <img src="frontend/public/images/home-page.png" alt="Home Page" width="500" />
+  </a>
+    <a href="https://resume-eta-swart.vercel.app/">
+    <img src="frontend/public/images/analytics.png" alt="Analitics" width="500" />
+  </a>
+  <a href="https://resume-eta-swart.vercel.app/">
+    <img src="frontend/public/images/cart-page.png" alt="Cart Page" width="500" />
   </a>
   <a href="https://resume-eta-swart.vercel.app/">
     <img src="frontend/public/images/admin-page.png" alt="Admin page" width="500" />
   </a>
-
   
 </p>
 
@@ -43,7 +49,7 @@ A modern E-commerce web application built with **React** and **Node.js**, design
 
 ## 📑 Table of Contents
 
-- [📝 E-commerce-store](#-E-commerce-store)
+- [🛍️ E-commerce-store ](#E-commerce-store)
   - [📑 Table of Contents](#-table-of-contents)
   - [🚀 Features](#-features)
   - [🛠️ Tech Stack](#️-tech-stack)
