@@ -1,0 +1,10 @@
+import { Router } from 'express';
+import { protectRoute } from '../middlewares/authMiddleware.js';
+import { getCoupon, validateCoupon } from '../controllers/couponController.js';
+
+const router = Router();
+
+router.get('/', protectRoute, getCoupon);
+router.post('/validate', protectRoute, validateCoupon);
+
+export default router;
