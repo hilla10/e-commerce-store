@@ -61,6 +61,7 @@ A modern E-commerce web application built with **React** and **Node.js**, design
     - [Frontend .env:](#frontend-env)
     - [Backend (dev)](#backend-dev)
     - [Frontend (dev)](#frontend-dev)
+    - [Admin Login](#admin-login)
   - [📂 Folder Structure](#-folder-structure)
 
 ---
@@ -166,6 +167,13 @@ npm run dev
 cd frontend
 npm run dev
 ```
+
+### Admin Login
+```bash
+Email: test@gmail.com
+Password: 123456
+```
+
 
 
 ## 📂 Folder Structure
