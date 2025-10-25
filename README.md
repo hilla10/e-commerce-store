@@ -43,7 +43,7 @@ A modern E-commerce web application built with **React** and **Node.js**, design
 
 ## 📑 Table of Contents
 
-- [📝 Online Resume Builder](#-online-resume-builder)
+- [📝 E-commerce-store](#-E-commerce-store)
   - [📑 Table of Contents](#-table-of-contents)
   - [🚀 Features](#-features)
   - [🛠️ Tech Stack](#️-tech-stack)
