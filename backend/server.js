@@ -17,7 +17,7 @@ await connectDB();
 
 app.use(cors()); // Middleware to enable CORS
 
-const __dirname = path.resolve;
+const __dirname = path.resolve();
 
 app.use(express.json({ limit: '10mb' })); // Middleware to parse JSON bodies
 app.use(cookieParser()); // Middleware to parse cookies
